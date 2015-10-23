@@ -4,3 +4,4 @@ gnat
 gnatmake
 gnatmetric
 hg
+gnatprove
